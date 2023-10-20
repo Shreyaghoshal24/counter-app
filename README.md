@@ -16,4 +16,11 @@ To run the Redux Counter App, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Shreyaghoshal24/counter-app.git>
+
+2. **Install the dependencies:**
+
+   To install the dependencies:
+
+   ```bash
+   npm i
