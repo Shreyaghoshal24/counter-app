@@ -4,8 +4,8 @@ A simple React application that uses Redux to manage a counter. It allows you to
 
 ## Tech Stack
 
-**Client:** React, Redux
-**Styling:** Custom Bootstrap CSS
+- **Client:** React, Redux
+- **Styling:** Custom Bootstrap CSS
 
 ## Installation
 
